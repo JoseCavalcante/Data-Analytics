@@ -30,10 +30,17 @@ Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do De
 Dicionário dos dados:
 
 Educação: 1 'Abaixo da faculdade' 2 'Faculdade' 3 'Bacharelado' 4 'Mestre' 5 'Doutor'
+
 Satisfação Ambiental: 1 'Baixa' 2 'Média' 3 'Alta' 4 'Muito Alta'
+
 Envolvimento no Trabalho: 1 'Baixo' 2 'Médio' 3 'Alto' 4 'Muito Alto'
+
 Satisfação no Trabalho: 1 'Baixa' 2 'Média' 3 'Alta' 4 'Muito Alta'
+
 Classificação de Desempenho: 1 'Baixo' 2 'Bom' 3 'Excelente' 4 'Excelente'
+
 RelacionamentoSatisfação: 1 'Baixa' 2 'Média' 3 'Alta' 4 'Muito Alta'
+
 WorkLifeBalance: 1 'Ruim' 2 'Bom' 3 'Melhor' 4 'Melhor'
+
 
