@@ -19,11 +19,17 @@ de quais funcionários estão mais propensos a sair de seu emprego.
 Alguns exemplos de dados coletados dos funcionários pelo RH:
 
 Envolvimento com o trabalho.
+
 Escolaridade.
+
 Satisfação com o trabalho
+
 Métricas de desempenho.
+
 Relacionamento
+
 Equilíbrio entre as atividades pessoais e profissionais.
+
 
 Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do Departamento de RH para fazer análises e a previsão de quem vai deixar a empresa.
 
