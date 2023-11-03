@@ -10,19 +10,14 @@
 <p align="justify">De posse dessas informações, o Departamento de Recursos Humanos da IBM-EUA coletou dados de seus funcionários e gostaria de fazer uma previsão de quais funcionários estão mais propensos a sair de seu emprego.
 </p>
 Alguns exemplos de dados coletados dos funcionários pelo RH:
-
-Envolvimento com o trabalho.
-
-Escolaridade.
-
-Satisfação com o trabalho
-
-Métricas de desempenho.
-
-Relacionamento
-
-Equilíbrio entre as atividades pessoais e profissionais.
-
+<ul>
+ <li>Envolvimento com o trabalho.</li>
+ <li>Escolaridade.</li>
+ <li>Satisfação com o trabalho.</li>
+ <li>Métricas de desempenho.</li>
+ <li>Relacionamento</li>
+ <li>Equilíbrio entre as atividades pessoais e profissionais.</li>
+</ul>
 
 Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do Departamento de RH para fazer análises e a previsão de quem vai deixar a empresa.
 
