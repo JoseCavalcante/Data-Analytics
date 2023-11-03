@@ -3,9 +3,8 @@
   Clique aqui</a></p>
 <p align="justify">Neste estudo de caso, eu vou trabalhar com o departamento de recursos humanos de uma empresa. O objetivo é prever quais funcionários têm mais tendência de deixar a empresa. Este estudo é importante porque mostra o principal problema das empresas que é realizar a contratação e manter as telentosas na empresa. O processo de contratação pode levar muito tempo e é gasto muito dinheiro. Se a empresa possui funcionários talentosos, é preciso manter esses funcionários oferecendo mais benefícios ou outros tipos de bonus. Além de gastos com a contratação há também gastos com o treinamento.
 </p> 
+<p>Algumas afirmações de pesquisas feitas nas empresas:</p>
 
-
-Algumas afirmações de pesquisas feitas nas empresas:
 
 Contratar e reter funcionários são tarefas extremamente complexas que exigem capital, tempo e habilidades.
 Pequenos empresários gastam em torno de 40% das horas de trabalho em tarefas que não geram receitas, como a contratação.
