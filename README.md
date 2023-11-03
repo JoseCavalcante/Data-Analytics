@@ -1,7 +1,7 @@
 
  <p>Link para o Dashboard <a href="https://app.powerbi.com/view?r=eyJrIjoiMGY1Zjk1NmMtZWJmZi00NDJhLTg0NWEtYzI4ODcyZDgzMTczIiwidCI6ImZhMDg5NTAxLTRmMzctNDY1ZC1iZGUzLWFmODdlMmJiMWJiYiJ9">
   Clique aqui</a></p>
-<p text-align:justify;>
+<p align="justify">
  Neste estudo de caso, eu vou trabalhar com o departamento de recursos humanos de uma empresa.
 O objetivo é prever quais funcionários têm mais tendência de deixar a empresa. Este estudo é importante porque mostra o principal problema das 
 empresas que é realizar a contratação e manter as telentosas na empresa. O processo de contratação pode levar muito tempo e é gasto muito dinheiro. 
