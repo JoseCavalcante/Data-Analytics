@@ -1,5 +1,5 @@
  clique aqui
- 
+https://github.com/JoseCavalcante/Data-Analytics/tree/main 
 Neste estudo de caso, eu vou trabalhar com o departamento de recursos humanos de uma empresa.
 O objetivo é prever quais funcionários têm mais tendência de deixar a empresa. Este estudo é importante porque mostra o principal problema das 
 empresas que é realizar a contratação e manter as telentosas na empresa. O processo de contratação pode levar muito tempo e é gasto muito dinheiro. 
