@@ -89,7 +89,7 @@
       <li>4 Muito Bom</li>
     </ul>
 </ul>
-<p>Dicionário de Dados:</p>
+<p>Dicionário de Variáveis</p>
 <table>
   <tr>
     <table>
