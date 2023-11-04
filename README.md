@@ -12,9 +12,10 @@
 <p>Antes de apresentarmos um Modelo de Machine Learning para que se realize essas previsões, resolvemos fazer algumas percepções sobre os dados apresentados pelo Departamento de Recursos Humanos.</p>
 <p>As percepções retiradas se baseiam em cima de 4 categorias principais: <b>Educação</b>, <b>Estado Civil</b>, <b>Departamento</b> e <b>Distância de Casa</b>.</p>
 <p>Cada categoria analisada ficará extratificada pelo <b>Gênero</b>, masculino/feminino. Mostrando o total de quem saiu e quem ficou na empresa.</p>
-<p>Variáveis Categóricas:</p>
+<p>Clique <a href=">aqui</a></p>
+<p>Variáveis Categóricas da Base Histórica:</p>
 <ul>
-  <li>Educação:</li>
+  <li><b>Educação:</b></li>
     <ul>
       <li>1 Abaixo da faculdade</li>
       <li>2 Faculdade</li>
@@ -22,45 +23,45 @@
       <li>4 Mestre</li>
       <li>5 Doutor</li>
     </ul>
-  <li>Satisfação Ambiental:</li>
+  <li><b>Satisfação Ambiental:</b></li>
     <ul>    
       <li>1 Baixa</li>
       <li>2 Média</li>
       <li>3 Alta</li>
       <li>4 Muito Alta</li>
     </ul>
-  <li>Envolvimento No Trabalho:</li>
+  <li><b>Envolvimento No Trabalho:</b></li>
     <ul>    
       <li>1 Baixo</li>
       <li>2 Médio</li>
       <li>3 Alto</li>
       <li>4 Muito Alto</li>
     </ul> 
-  <li>Satisfação No Trabalho:</li>
+  <li><b>Satisfação No Trabalho:</b></li>
     <ul>    
       <li>1 Baixa</li>
       <li>2 Média</li>
       <li>3 Alta</li>
       <li>4 Muito Alta</li>
     </ul>
-  <li>Classificação de Desempenho:</li>
+  <li><b>Classificação de Desempenho:</b></li>
     <ul>    
       <li>1 Baixo</li>
       <li>2 Médio</li>
       <li>3 Alto</li>
       <li>4 Muito Alto</li>
     </ul>
-  <li>RelacionamentoSatisfação:</li>
+  <li><b>RelacionamentoSatisfação:</b></li>
     <ul>    
       <li>1 Baixa</li>
       <li>2 Média</li>
       <li>3 Alta</li>
       <li>4 Muito Alta</li>
     </ul>
-  <li>RelacionamentoSatisfação:</li>
+  <li><b>RelacionamentoSatisfação:</b></li>
     <ul>    
-      <li>1 Ruim
-      </li>2 Regular
+      <li>1 Ruim</li>
+      <li>2 Regular</li>
       <li>3 Bom</li>
       <li>4 Muito Bom</li>
     </ul>
