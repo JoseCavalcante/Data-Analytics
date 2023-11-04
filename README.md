@@ -11,6 +11,7 @@
 </ul>
 <p>Antes de apresentarmos um Modelo de Machine Learning para que se realize essas previsões, resolvemos fazer algumas percepções sobre os dados apresentados pelo Departamento de Recursos Humanos.</p>
 <p>As percepções retiradas se baseiam em cima de 4 categorias principais: <b>Educação</b>, <b>Estado Civil</b>, <b>Departamento</b> e <b>Distância de Casa</b>.</p>
+<p>Cada categoria analisada ficará extratificada pelo <b>Gênero</b>, masculino/feminino. Mostrando o total de quem saiu e quem ficou na empresa.</p>
 <p>Variáveis Categóricas:</p>
 <ul>
   <li>Educação:</li>
