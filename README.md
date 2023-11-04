@@ -21,7 +21,7 @@
   <li>Relacionamento.</li>
   <li>Equilibrio entre as atividades pessoais e profissionais.</li>
 </ul>
-<p>Variáveis Categoricas:</p>
+<p>Variáveis Categóricas:</p>
 <ul>
   <li>Educação:</li>
     <ul>
