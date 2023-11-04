@@ -12,7 +12,7 @@
 <p>Antes de apresentarmos um Modelo de Machine Learning para que se realize essas previsões, resolvemos fazer algumas percepções sobre os dados apresentados pelo Departamento de Recursos Humanos.</p>
 <p>As percepções retiradas se baseiam em cima de 4 categorias principais: <b>Educação</b>, <b>Estado Civil</b>, <b>Departamento</b> e <b>Distância de Casa</b>.</p>
 <p>Cada categoria analisada ficará extratificada pelo <b>Gênero</b>, masculino/feminino. Mostrando o total de quem saiu e quem ficou na empresa.</p>
-<p>Clique <a href="https://app.powerbi.com/view?r=eyJrIjoiMGY1Zjk1NmMtZWJmZi00NDJhLTg0NWEtYzI4ODcyZDgzMTczIiwidCI6ImZhMDg5NTAxLTRmMzctNDY1ZC1iZGUzLWFmODdlMmJiMWJiYiJ9">aqui</a> para visitar o DashBoard</p>
+<p>Clique <a href="https://app.powerbi.com/view?r=eyJrIjoiMGY1Zjk1NmMtZWJmZi00NDJhLTg0NWEtYzI4ODcyZDgzMTczIiwidCI6ImZhMDg5NTAxLTRmMzctNDY1ZC1iZGUzLWFmODdlMmJiMWJiYiJ9" target="_blank">aqui</a> para visitar o DashBoard</p>
 <p>Variáveis Categóricas da Base Histórica:</p>
 <ul>
   <li><b>Educação:</b></li>
