@@ -12,7 +12,6 @@
 </ul>
 <p align="justify">De posse dessas informações, o Departamento de Recursos Humanos da IBM-EUA coletou dados de seus funcionários e gostaria de  fazer uma previsão de quais funcionários estão mais propensos a sair de seu emprego.
 </p>
-
 <p>Alguns exemplos de dados coletados dos funcionários pelo RH:</p>
 <ul>
   <li>Envolvimento com o trabalho.</li>
@@ -21,20 +20,6 @@
   <li>Métricas de desempenho.</li>
   <li>Relacionamento.</li>
   <li>Equilibrio entre as atividades pessoais e profissionais.</li>
-</ul>
-<p>Para esta simulação, o Cientista de Dados irá receber uma Base de Dados do Departamento de RH para fazer análises e a previsão de quem vai deixar a empresa.</p> 
-<p>Algoritmos de classificação utilizado neste estudo:</p>
-<ul>
-  <li>Regressão Logistica.</li>
-  <li>Randon Forest</li>
-  <li>Gradient-Boosted</li>
-</ul>
-<p>Vencedor: <b>Regressão Logistica</b></p>
-<ul>
-  <li>Accuracy = 0.903153</li>
-  <ul>
-    <li>Test Error = 0.0968468</li>
-  </ul>
 </ul>
 <p>Variáveis Categoricas:</p>
 <ul>
